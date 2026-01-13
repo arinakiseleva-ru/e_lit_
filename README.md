@@ -1,4 +1,4 @@
-# e_lit_[readme (1).md](https://github.com/user-attachments/files/24598927/readme.1.md)
+
 # Part A: Electronic Literature Dataset
 The dataset includes 15 works of electronic literature, selected according to the following principles:
 
