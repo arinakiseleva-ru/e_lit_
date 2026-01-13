@@ -48,6 +48,8 @@ Although the dataset includes works in different languages, the selection is pri
 
 - **[e_lit_dataset.csv](https://github.com/arinakiseleva-ru/e_lit_/blob/main/data/e_lit_dataset.csv)** — the main dataset in CSV format, containing 15 electronic literature works
 - **[DATASET_TABLE.md](https://github.com/arinakiseleva-ru/e_lit_/blob/main/data/DATASET_TABLE.md)** — complete documentation with a table of 15 electronic literature works
+## Part B: Case Study
+This repository also includes **Part B: a detailed case study** analyzing one work from the dataset — "The Warp and Weft of Memory" by Renée Turner. The case study examines the work as a digital literary object, focusing on its structure, interface, and narrative mechanisms. You can find the complete analysis in the [/case-study/](https://github.com/arinakiseleva-ru/e_lit_/tree/main/case-study) folder.
 
 
 
